@@ -1,0 +1,40 @@
+*{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.p{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding-left: 46%;
+    color: whitesmoke;
+    font-family: Roboto;
+    margin: 40px;
+
+}
+
+.logo{
+    position: absolute;
+    width: 300px;
+    height: 180px;
+}
+.imagem1{
+
+    position: absolute;
+    width: 800px;
+    height: 810px;
+    top: 233px;
+    margin-left: 27%;
+}
+.menu{
+    width: -300%;
+}
